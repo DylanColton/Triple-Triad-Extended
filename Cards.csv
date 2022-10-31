@@ -1,0 +1,12 @@
+id,name,rarity,n,e,s,w
+0,NULL,Pebble,0,0,0,0
+1,Ouryu the Golden Dragon,Oricalcum,9,9,9,9
+2,Genbu the Black Tortoise,Diamond,9,3,3,3
+3,Seiryu the Azure Dragon,Diamond,3,9,3,3
+4,Suzaku the Vermillion Phoenix,Diamond,3,3,9,3
+5,Byakko the White Tiger,Diamond,3,3,3,9
+6,Black Knight,?,6,2,2,2
+7,Azure Knight,?,2,6,2,2
+8,Vermillion Knight,?,2,2,6,2
+9,White Knight,?,2,2,2,6
+10,Radiant Soldier,?,4,4,4,4
